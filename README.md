@@ -13,7 +13,10 @@
 -  **Aprendendo :** Perl e Kotlin 🎉	
 -  **Linguagens :** Python, C, PHP 💻
 -  **Hobbies :** Livros sobre pentest 📕
-<!-- -  **Organização :** [Technojam](https://github.com/technojam), [Developers Student Club at Galgotias University](https://github.com/DSC-Galgotias) ->
+
+<!-- 
+-  **Organização :** [Technojam](https://github.com/technojam), [Developers Student Club at Galgotias University](https://github.com/DSC-Galgotias) 
+-->
 
 <p align="center">
   <img alt="WhoniX GitHub Status" src="https://github-readme-stats.vercel.app/api?username=WhoniX2020&show_icons=true&theme=radical">
