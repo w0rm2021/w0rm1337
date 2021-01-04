@@ -14,9 +14,7 @@
 -  **Linguagens :** Python, C, PHP 💻
 -  **Hobbies :** Livros sobre pentest 📕
 
-<!-- 
--  **Organização :** [Technojam](https://github.com/technojam), [Developers Student Club at Galgotias University](https://github.com/DSC-Galgotias) 
--->
+-  **Team :** HaltedTeam
 
 <p align="center">
   <img alt="w0rm1337" src="https://github-readme-stats.vercel.app/api?username=w0rm1337&show_icons=true&theme=radical">
