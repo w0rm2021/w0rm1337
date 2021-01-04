@@ -2,7 +2,7 @@
 
 <img align="left" src="https://orhun.dev/img/crow.png">
 
-[![twitter](https://img.shields.io/badge/-@w0rm1337-313131?style=flat-square&labelColor=313131&logo=twitter&logoColor=white&color=313131)](https://twitter.com/WhoniX2020)  
+[![twitter](https://img.shields.io/badge/-@w0rm1337-313131?style=flat-square&labelColor=313131&logo=twitter&logoColor=white&color=313131)](https://twitter.com/w0rm1337)  
 
 <h5>"Ser o homem mais rico do cemitério não me interessa. Ir para a cama sabendo que fiz algo sensacional é o que me importa."</h5>
 
