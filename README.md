@@ -19,5 +19,5 @@
 -->
 
 <p align="center">
-  <img alt="WhoniX" src="https://github-readme-stats.vercel.app/api?username=WhoniX2020&show_icons=true&theme=radical">
+  <img alt="w0rm1337" src="https://github-readme-stats.vercel.app/api?username=w0rm1337&show_icons=true&theme=radical">
 </p>
