@@ -14,7 +14,7 @@
 -  **Linguagens :** Python, C, PHP 💻
 -  **Hobbies :** Livros sobre pentest 📕
 
--  **Team :** HaltedTeam 🧙
+-  **Team :** eu e Deus 🧙
 
 <p align="center">
   <img alt="w0rm1337" src="https://github-readme-stats.vercel.app/api?username=w0rm1337&show_icons=true&theme=radical">
