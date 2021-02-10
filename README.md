@@ -10,7 +10,7 @@
 
 ### <i>Sobre mim</i>
 
--  **Aprendendo :** C#, PyWeb com Flask 🎉	
+-  **Aprendendo :** C#, Perl 🎉	
 -  **Linguagens :** Python, C, PHP 💻
 -  **Hobbies :** Livros sobre pentest 📕
 
